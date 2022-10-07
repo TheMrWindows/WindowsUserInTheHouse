@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @WindowsUserInTheHouse
-- 👀 I’m interested in computers
+- 👋 Hi, I’m @WindowsUserInTheHouse.
+- 👀 I’m interested in computers and coding.
