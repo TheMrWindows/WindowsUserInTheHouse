@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @WindowsUserInTheHouse.
-- 👀 I’m interested in computers and coding.
+Hey there! I'm just some random dude who likes Windows!
